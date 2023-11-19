@@ -1,0 +1,42 @@
+[
+  {
+    "teacher_id": 2,
+    "name": "ram",
+    "age": 46,
+    "dob": "1977-01-20",
+    "classes_taught": 45,
+    "contact": "567890987"
+  },
+  {
+    "teacher_id": 3,
+    "name": "kavi",
+    "age": 23,
+    "dob": "2000-10-10",
+    "classes_taught": 23,
+    "contact": "78789098"
+  },
+  {
+    "teacher_id": 5,
+    "name": "babu",
+    "age": 36,
+    "dob": "1987-09-05",
+    "classes_taught": 43,
+    "contact": "2345789009"
+  },
+  {
+    "teacher_id": 6,
+    "name": "tom",
+    "age": 45,
+    "dob": "1978-02-27",
+    "classes_taught": 65,
+    "contact": "8909764327"
+  },
+  {
+    "teacher_id": 5,
+    "name": "ram",
+    "age": 23,
+    "dob": "2000-09-08",
+    "classes_taught": 66,
+    "contact": "5678902890"
+  }
+]
